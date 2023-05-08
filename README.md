@@ -10,5 +10,5 @@ In submit-spark.hello-world.bat set SPARK_HOME pointing to the above spark insta
 ## For Windows
 Run sh submit-spark-hello-world.bat 
 
-##For Linux
+## For Linux
 Run sh submit-spark-hello-world.sh 
